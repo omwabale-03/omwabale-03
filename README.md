@@ -1,40 +1,104 @@
-# 💫 About Me:
-## Om Wabale — AI/ML Engineer | LLM & Cloud Systems
+<h1 align="center">Om Dattatray Wabale</h1>
+<h3 align="center">AI/ML Engineer · LLM & RAG Systems · Cloud Infrastructure</h3>
 
-Final-year CS student (MIT-AOE, 2026) with 3 internships in AI/ML, Cloud Infrastructure, 
-and Backend Development. AWS Certified Cloud Practitioner.
-
-🔴 LIVE: kalnet-ai4.onrender.com — Isolation Forest anomaly detection in production
-
-🧠 Currently building: RAG pipelines (Claude API + pgvector) | Agentic AI workflows
-☁️  Cloud: AWS (EC2, S3, IAM, VPC) + Azure (PIM, RBAC, Terraform) 
-📄 Research: DDoS Detection using ML — published 2026
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/omwabale_03) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omwabale_03) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wabaleom03@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-
-## 🏅 Certifications
-- AWS Certified Cloud Practitioner (CLF-C02) — May 2026
-- Cloud Computing with AI — HSBC, May 2026
-
-## 📖 Research
-- "Cloud-Based DDoS Detection and Mitigation System Using ML"
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=omwabale-03&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=omwabale-03&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=omwabale-03&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=omwabale-03&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <a href="https://linkedin.com/in/om-wabale-ba1844302"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:wabaleom03@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/omwabale-03"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=omwabale-03&icon=0&color=2)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### About
+
+Final-year Computer Engineering student at MIT Academy of Engineering, Pune (Class of 2026) with **3 internships** across AI/ML, Cloud Infrastructure, and Backend Development.
+
+- 🔴 **Live in production:** [kalnet-ai4.onrender.com](https://kalnet-ai4.onrender.com) — Isolation Forest anomaly detection for an enterprise school analytics platform
+- 🧠 **Currently building:** RAG pipelines (Anthropic Claude API · pgvector · LangChain) and agentic AI workflows
+- ☁️ **Cloud:** AWS Certified Cloud Practitioner · Azure (PIM, RBAC, Terraform, VNets)
+- 📄 **Research published (2026):** Cloud-Based DDoS Detection & Mitigation using Machine Learning
+- 🏆 **Certifications:** AWS CLF-C02 · Cloud Computing with AI (HSBC)
+
+---
+
+### Core Stack
+
+**AI / ML**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+**LLM & Generative AI**
+
+![Anthropic](https://img.shields.io/badge/Anthropic_Claude_API-191919?style=flat&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+
+**Backend & APIs**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+
+---
+
+### Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| 🔴 [Student Anomaly Detector](https://github.com/omwabale-03) | Live ML system — Isolation Forest anomaly detection + Fee Default Prediction served via FastAPI | Python · scikit-learn · FastAPI · Docker · PostgreSQL |
+| 💬 [RAG Knowledge Assistant](https://github.com/omwabale-03) | LLM-powered document Q&A with semantic retrieval, multi-turn context, and agentic query resolution | Claude API · LangChain · pgvector · FastAPI |
+| 🤖 [AI Recruitment System](https://github.com/omwabale-03) | ATS-powered candidate ranking — resume parsing, skill matching, and interview recommendation using LLM APIs | FastAPI · OpenAI/Claude · PostgreSQL |
+| 🛡️ [DDoS Detection System](https://github.com/omwabale-03) | Random Forest classifier — 92% accuracy on 10k+ records, deployed on AWS EC2. Led to research publication | Python · AWS EC2 · Flask · IAM |
+| ☁️ [Azure PIM Security](https://github.com/omwabale-03) | End-to-end JIT privileged access implementation — RBAC, MFA, zero-trust, automated audit via PowerShell | Azure · PIM · Terraform · PowerShell |
+
+---
+
+### Internship Experience
+
+**AI/ML Engineer Intern** · KALNET Global *(Apr 2026 – Present)*
+Built production ML inference pipeline and RAG system for the KALNET AI-4 Intelligent School Analytics Platform.
+
+**Cloud Engineer Intern** · Celebal Technology *(Jun–Aug 2025)*
+Provisioned and secured Azure infrastructure — PIM, RBAC, Terraform IaC, CI/CD pipelines, reduced setup time ~30%.
+
+**Software Developer Intern** · Prasunet Company *(Mar–May 2025)*
+Designed 5+ REST APIs in Flask/Python for task automation and scheduling workflows.
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omwabale-03&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omwabale-03&theme=github_dark&hide_border=true&layout=compact" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=omwabale-03&theme=github-dark-blue&hide_border=true"/>
+</p>
+
+---
+
+<p align="center">
+  <i>Open to AI/ML, LLM Engineering, and Cloud roles — full-time from June 2026</i><br/>
+  <a href="mailto:wabaleom03@gmail.com">wabaleom03@gmail.com</a> · 
+  <a href="https://linkedin.com/in/om-wabale-ba1844302">LinkedIn</a>
+</p>
