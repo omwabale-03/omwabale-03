@@ -93,7 +93,7 @@ Designed and developed 5+ REST APIs using Flask & Python for task automation and
 
 ## Research
 
-**"Cloud-Based DDoS Detection and Mitigation System Using Machine Learning"** — Published 2026  
+**"Cloud-Based DDoS Detection and Mitigation System Using Machine Learning"**
 ML framework for DDoS detection using Random Forest; feature engineering on real-time traffic, 92% classification accuracy, deployed on AWS EC2.
 
 ---
