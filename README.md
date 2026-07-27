@@ -20,7 +20,7 @@ Final-year Computer Engineering student at MIT Academy of Engineering, Pune (202
 
 **Cloud Infrastructure** — AWS (EC2, S3, IAM, VPC, CloudWatch, Lambda) · Azure (VMs, App Services, VNets, NSGs, IAM, Azure SQL, Monitor) · Terraform IaC · GitHub Actions CI/CD
 
-**Backend & APIs** — FastAPI, Flask, REST APIs, async Python, JWT Auth, RBAC, Docker, PostgreSQL
+**Backend & APIs** — FastAPI, Flask, REST APIs, async Python, JWT Auth, RBAC, Docker, PostgreSQL.
 
 ---
 
